@@ -1,2 +1,2 @@
 
-![My picture](images/s.jpg)
+![My picture](images/crypto-screen.jpg)
